@@ -1,4 +1,4 @@
-### Hi there, I am Malay 👋
+### Hi there, I am Abdelbaki 👋
 
 [![Website](https://img.shields.io/website?down_color=red&down_message=Down&label=thehazarika.com&style=for-the-badge&up_message=UP&url=http%3A%2F%2Fthehazarika.com)](http://thehazarika.com)
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malay-hazarika/)
